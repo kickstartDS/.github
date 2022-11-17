@@ -5,7 +5,7 @@
 | Target                            | Link                                  |
 |-----------------------------------|---------------------------------------|
 |🌐 Visit the homepage              | https://www.kickstartDS.com/          |
-|📝 Read the blog                   | https://www.kickstartDS.com/          |
+|📝 Read the blog                   | https://www.kickstartDS.com/blog      |
 |👫 Join the **Discord** community  | https://discord.gg/mwKzD5gejY         |
 |⚙️ Peruse the **Storybook**        | https://www.kickstartDS.com/storybook |
 |🧑‍🏫 Learn from docs                 | https://www.kickstartDS.com/docs      |
