@@ -1,4 +1,4 @@
-# kickstartDS is the Open Source starter kit for Design Systems
+# The Open Source starter kit for Design Systems
 
 ## Clone our Starter
 
