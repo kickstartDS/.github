@@ -1,8 +1,6 @@
 # The Open Source starter kit for Design Systems
 
-## Clone our Starter
-
-[**Start your own Design System** in just **5 steps**, taking you **5 minutes max!**](https://www.kickstartDS.com/docs/guides/)
+[**Clone Starter** to start **your own Design System** in just **5 steps**, taking you **5 minutes max!**](https://www.kickstartDS.com/docs/guides/)
 
 ## Links
 
